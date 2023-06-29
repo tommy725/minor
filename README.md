@@ -36,7 +36,7 @@ Followings things can be done using our application:
 
 ## Contributors
 
-[Tommy Kaillo](https://github.com/tommy725/)
+[Tommy Kallio](https://github.com/tommy725/)
 
 ## Screenshots
 
